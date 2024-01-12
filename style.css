@@ -464,7 +464,7 @@ footer.statusbar {
 }
 .statusbar-item#vscodevim\.vim\.primary[aria-label="-- NORMAL --"]:before {
   content: "NORMAL";
-  font-size: 14px;
+  font-size: 13px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -473,7 +473,7 @@ footer.statusbar {
 }
 .statusbar-item#vscodevim\.vim\.primary[aria-label="-- INSERT --"]:before {
   content: "INSERT";
-  font-size: 14px;
+  font-size: 13px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -482,7 +482,7 @@ footer.statusbar {
 }
 .statusbar-item#vscodevim\.vim\.primary[aria-label="-- REPLACE --"]:before {
   content: "REPLACE";
-  font-size: 14px;
+  font-size: 13px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -491,7 +491,7 @@ footer.statusbar {
 }
 .statusbar-item#vscodevim\.vim\.primary[aria-label="-- VISUAL --"]:before {
   content: "VISUAL";
-  font-size: 14px;
+  font-size: 13px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -500,7 +500,7 @@ footer.statusbar {
 }
 .statusbar-item#vscodevim\.vim\.primary[aria-label="-- VISUAL LINE --"]:before {
   content: "V-LINE";
-  font-size: 14px;
+  font-size: 13px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -509,7 +509,7 @@ footer.statusbar {
 }
 .statusbar-item#vscodevim\.vim\.primary[aria-label="-- VISUAL BLOCK --"]:before {
   content: "V-BLOCK";
-  font-size: 14px;
+  font-size: 13px;
   display: flex;
   align-items: center;
   justify-content: center;
