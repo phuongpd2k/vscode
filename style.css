@@ -154,7 +154,7 @@ footer.statusbar {
   top: -1px;
   right: 0;
   height: 30px;
-  left: 30px;
+  left: 23px;
   box-sizing: border-box;
   border-left: solid var(--powerline-second-segment-bg) 15px;
   border-top: solid var(--powerline-second-segment-bg) 16px;
@@ -182,7 +182,7 @@ footer.statusbar {
   content: "";
   position: absolute;
   top: -1px;
-  left: 0;
+  left: -7px;
   height: 30px;
   width: 30px;
   box-sizing: border-box;
@@ -215,7 +215,7 @@ footer.statusbar {
   content: "";
   position: absolute;
   top: -1px;
-  right: -7px;
+  right: 0;
   left: auto;
   height: 30px;
   width: 30px;
@@ -403,7 +403,7 @@ footer.statusbar {
   border-top: solid var(--powerline-inner-bg) 16px;
   border-right: solid transparent 15px;
   border-bottom: solid var(--powerline-inner-bg) 16px;
-  margin-right: -30px;
+  margin-right: -29px;
   z-index: 1;
 }
 
