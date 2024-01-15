@@ -73,7 +73,7 @@ footer.statusbar {
 .statusbar-item.right:not([aria-hidden]):not([aria-label=""])
   ~ .statusbar-item.right:not([aria-hidden]):not([aria-label=""])
   > :first-child {
-  margin: 0 -15px 0 0 !important;
+  margin: 0 -15px 0 -7px !important;
 }
 
 /* third from right and on */
