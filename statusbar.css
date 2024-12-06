@@ -513,3 +513,6 @@ footer.statusbar {
 .statusbar-item.right#vscodevim\.vim\.primary {
   color: var(--powerline-vim-command-line);
 }
+.monaco-workbench .part.statusbar>.right-items{
+  flex-wrap: nowrap !important;
+}
